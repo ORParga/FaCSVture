@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\bin\Debug\FaCSVture.exe.config
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\bin\Debug\FaCSVture.exe
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\bin\Debug\FaCSVture.pdb
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\obj\Debug\FaCSVture.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\obj\Debug\FaCSVture.frm_FaCSVture.resources
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\obj\Debug\FaCSVture.Properties.Resources.resources
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\obj\Debug\FaCSVture.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\obj\Debug\FaCSVture.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\obj\Debug\FaCSVture.exe
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\obj\Debug\FaCSVture.pdb
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\bin\Debug\FaCSVture.exe.manifest
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\bin\Debug\FaCSVture.application
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\obj\Debug\FaCSVture.exe.manifest
+C:\Users\user\source\repos\ORParga\FaCSVture\FaCSVture\obj\Debug\FaCSVture.application
